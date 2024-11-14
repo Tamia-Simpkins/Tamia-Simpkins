@@ -48,8 +48,9 @@ p {
 
 a {
     /* change the appearance of ALL links */
+    
     text-decoration: none;
-    color: #79adf1;
+    color: #000000;
 }
 
 .project p {
